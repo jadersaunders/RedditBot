@@ -1,6 +1,6 @@
 # RedditBot
 
-This Github Repository contains my submission for project 4.  A link to project instructions can be found [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_04#submission).  My bot is opposing Donald Trump.
+This Github Repository contains my submission for project 4.  A link to project instructions can be found [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_04#submission).  My bot is opposing Donald Trump, and supporting Joe Biden via upvotes in my `bot_vote.py` file.
 
 Here is a [link](insertlinktothread) to my favorite thread involving my bot.  Attached below is a ![screenshot of the thread](insertimagelink).
 
