@@ -20,7 +20,7 @@ Included below is the output of running my `bot_counter.py` file on my bot llama
 4. 2 points: the `bot_submissions.py file` - having my bot create 200 submission posts.  I scanned the top posts in the subreddit /r/TrumpCriticizesTrump/.
 5. 2 points: having my bot reply to highly upvoted comments in thread with code in my `bot.py` file below the `comments_without_replies` function.
 6. 4 points: having my bot upvote comments mentioning biden in my `bot_vote.py` file.  I earned an extra 2 points here because I used TextBlob to determine the sentiment of posts, and upvoted/downvoted based on the sentiment.  I ran on at least 100 submissions and all comments in those submissions.
-7. 5 points: using Markovify to generate the text of my comments
+7. 5 points: using Markovify to generate the text of my comments - I have uploaded my 3 text files `trumptext.txt`, `trumptext2.txt`, `trumptext3.txt`
 
 ###### Not completed: 
 1. 2 points: creating an army of 5 bots
