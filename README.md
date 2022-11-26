@@ -2,11 +2,9 @@
 
 This Github Repository contains my submission for project 4.  A link to project instructions can be found [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_04#submission).  My bot is opposing Donald Trump, and supporting Joe Biden via upvotes in my `bot_vote.py` file.
 
-Here is a [link](insertlinktothread) to my favorite thread involving my bot.  Attached below is a ![screenshot of the thread](insertimagelink).
+Here is a [link](https://www.reddit.com/r/cs40_2022fall/comments/ywivox/comment/ixa6rl6/?utm_source=share&utm_medium=web2x&context=3) to my favorite thread involving my bot.  Attached below is a ![screenshot of the thread](https://github.com/jadersaunders/RedditBot/blob/main/favorite_bot_thread.png).
 
-
-
-I like this thread because <!-- add short description of what i like about the thread-->
+I like this thread because you can see my bot interacting with other bots, and trying to reply and continue the conversation.  The thread makes some sense, and I also like how you can see my madlibs text and Markovify text being posted simultaneously.
 
 Included below is the output of running my `bot_counter.py` file on my bot llamabot45, which generated over 1000 valid comments.
 ```
