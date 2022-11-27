@@ -6,7 +6,7 @@ Here is a [link](https://www.reddit.com/r/cs40_2022fall/comments/ywivox/comment/
 
 I like this thread because you can see my bot interacting with other bots, and trying to reply and continue the conversation.  The thread makes some sense, and I also like how you can see my madlibs text and Markovify text being posted simultaneously.
 
-Included below is the output of running my `bot_counter.py` file on my bot llamabot45, which generated over 1000 valid comments.
+Included below is the output of running my `bot_counter.py` file on my bot llamabot45, which generated over 800 valid comments.
 ```
 len(comments)= 1000
 len(top_level_comments)= 93
@@ -22,7 +22,7 @@ valid_comments= 806
 ## Completed Tasks 
 1. 12 points: all tasks in `bot.py`
 2. 3 points: this Github repo 
-3. 10 points: getting 1000+ valid comments (in the output of my `bot_counter.py` file)
+3. 6 points: getting 800+ valid comments (in the output of my `bot_counter.py` file)
 4. 2 points: the `bot_submissions.py file` - having my bot create 200+ submission posts.  I scanned the top posts in the subreddits /r/TrumpCriticizesTrump/, /r/Trumpvirus/, /r/TrumpHatesTheTroops/ and /r/america/.
 5. 2 points: having my bot reply to highly upvoted comments in thread with code in my `bot.py` file below the `comments_without_replies` function.
 6. 4 points: having my bot upvote comments mentioning biden in my `bot_vote.py` file.  I earned an extra 2 points here because I used TextBlob to determine the sentiment of posts, and upvoted/downvoted based on the sentiment.  I ran on at least 100 submissions and all comments in those submissions.
@@ -30,6 +30,7 @@ valid_comments= 806
 
 ###### Not completed: 
 1. 2 points: creating an army of 5 bots
+2. 4 points: getting 1000+ valid comments
 
-As a result, I think my final score should be a 38/30.
+As a result, I think my final score should be a 34/30.
 
