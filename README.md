@@ -33,4 +33,3 @@ valid_comments= 806
 2. 4 points: getting 1000+ valid comments
 
 As a result, I think my final score should be a 34/30.
-
