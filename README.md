@@ -8,7 +8,15 @@ I like this thread because you can see my bot interacting with other bots, and t
 
 Included below is the output of running my `bot_counter.py` file on my bot llamabot45, which generated over 1000 valid comments.
 ```
-<!-- add code block -->
+len(comments)= 1000
+len(top_level_comments)= 93
+len(replies)= 907
+len(valid_top_level_comments)= 93
+len(not_self_replies)= 899
+len(valid_replies)= 713
+========================================
+valid_comments= 806
+========================================
 ```
 
 ## Completed Tasks 
